@@ -1,0 +1,6 @@
+{
+  "name": "The Tie Breaker",
+  "description": "An AI-powered decision analysis tool. Break ties and make balanced decisions with interactive pros & cons, comparison tables, SWOT analysis, and weighted criteria sliders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
